@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "550186749340",
+    "project_id": "uaspemrogramanmobile-2771e",
+    "storage_bucket": "uaspemrogramanmobile-2771e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550186749340:android:a65f1c3e6d43f783180c59",
+        "android_client_info": {
+          "package_name": "com.example.uaspemrogramanmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAENWYxbFxiHES-eOKMnaSZBBfFp3ht89Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
